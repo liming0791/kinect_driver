@@ -1,4 +1,4 @@
-# RGBD-IMU
+# Kinect-Driver
 
 Tool to get RGB-D image sequence from kinect.
 
