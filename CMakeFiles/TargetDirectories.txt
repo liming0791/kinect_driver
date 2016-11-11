@@ -1,0 +1,2 @@
+/home/liming/SerialPort/CMakeFiles/testPort.dir
+/home/liming/SerialPort/CMakeFiles/SerialPort.dir

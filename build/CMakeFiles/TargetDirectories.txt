@@ -1,0 +1,2 @@
+/home/liming/kinect_driver/build/CMakeFiles/OnlineRecord.dir
+/home/liming/kinect_driver/build/CMakeFiles/KinectDriver.dir

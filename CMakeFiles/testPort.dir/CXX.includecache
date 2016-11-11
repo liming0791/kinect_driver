@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/liming/SerialPort/src/main.cpp
+AsyncSerial.h
+/home/liming/SerialPort/src/AsyncSerial.h
+iostream
+-
+sstream
+-
+termios.h
+-
+boost/lexical_cast.hpp
+-
+boost/thread.hpp
+-
+
+include/AsyncSerial.h
+vector
+-
+boost/asio.hpp
+-
+boost/bind.hpp
+-
+boost/thread.hpp
+-
+boost/utility.hpp
+-
+boost/function.hpp
+-
+boost/shared_array.hpp
+-
+
